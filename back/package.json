@@ -1,0 +1,31 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Backend of matcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "cpieri && aquan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-list-endpoints": "^4.0.1",
+    "express-useragent": "^1.0.13",
+    "my-sql": "^1.2.15",
+    "nodemailer": "^6.2.1",
+    "nodemon": "^1.19.1",
+    "remove-accents": "^0.4.2",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0",
+    "sync-mysql": "^3.0.1",
+    "sync-request": "^6.1.0",
+    "thispersondoesnotexist-js": "^1.0.3"
+  }
+}
