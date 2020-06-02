@@ -12,6 +12,7 @@
 ## Description
 
 Dating website allowing a user to register and to enter personal details and preferences, to be able to match another user with a more or less matching profile, among a selection of profiles of other users that the site will offer.
+
 Once they have matched each other, these two profiles should be able to exchange sweet words and more affinities via a private chat.
 
 ## Techno
